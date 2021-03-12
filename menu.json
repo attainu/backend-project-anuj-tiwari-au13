@@ -1,0 +1,129 @@
+[{
+    "_id": {
+        "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Kadhai Paneer",
+    "image": "dish.png",
+    "price": "250",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Rajma",
+    "image": "dish2.png",
+    "price": "300",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Paneer Tikka with Tandoori Naan",
+    "image": "dish3.png",
+    "price": "500",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Chana Masaala",
+    "image": "dish4.png",
+    "price": "300",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Chicken Mushroom",
+    "image": "dish5.png",
+    "price": "350",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Mix Veg",
+    "image": "dish6.png",
+    "price": "200",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Dal Tadka",
+    "image": "dish7.png",
+    "price": "150",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Mushroom Gravy",
+    "image": "dish8.png",
+    "price": "500",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2bea1"
+    },
+    "name": "Curry",
+    "image": "dish9.png",
+    "price": "300",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2bea2"
+    },
+    "name": "Spring Roll",
+    "image": "dish10.png",
+    "price": "250",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2bea0"
+    },
+    "name": "Chicken Breast",
+    "image": "dish11.png",
+    "price": "500",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2beb1"
+    },
+    "name": "Mushroom Dry",
+    "image": "dish12.png",
+    "price": "500",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2beb2"
+    },
+    "name": "Paneer Buter Masala",
+    "image": "dish.png",
+    "price": "300",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2beb3"
+    },
+    "name": "Paneer Pasanda with Butter Roti",
+    "image": "dish2.png",
+    "price": "500",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2beb4"
+    },
+    "name": "Chole gravy",
+    "image": "dish3.png",
+    "price": "250",
+    "size": "full"
+}, {
+    "_id": {
+        "$oid": "5eee6717a27a66807cf2beb5"
+    },
+    "name": "Mushroom",
+    "image": "dish4.png",
+    "price": "500",
+    "size": "full"
+}]
